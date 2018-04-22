@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x301e630" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x301e630"/>
+  <item nodeId="node-0x301e630">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+t-shirt has no description.
+pajama-pants has no description.
+hotel slippers has no description.
+wand has no description.
+sunlight has no description.
+dust has no description.
+poof has no description.
+windowsill has no description.
+sphere has no description.
+vial has no description.
+cork has no description.
+
+Poofparser
+An Interactive Fiction
+Release 1 / Serial number 180422 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Noon Room
+You&apos;re standing in the middle of a nearly barren room, facing the window.
+
+Sunlight shines a little way into the room - the angle roughly implies that it&apos;s close to noon.
+
+The floor has a thick layer of dust.
+
+There is an extremely dusty-looking pink poof on the floor in front of you.
+
+On the windowsill are a sphere, a vial, and a cork.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7feeec0eaf00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7feeec0eaf00">
+    <command xml:space="preserve"> look</command>
+    <result xml:space="preserve">Noon Room
+You&apos;re standing in the middle of a nearly barren room, facing the window.
+
+Sunlight shines a little way into the room - the angle roughly implies that it&apos;s close to noon.
+
+The floor has a thick layer of dust.
+
+There is an extremely dusty-looking pink poof on the floor in front of you.
+
+On the windowsill are a sphere, a vial, and a cork.
+
+There is a stick of wood in your hand that you are gripping very tightly indeed, though you do not know why.
+
+You have no idea why you are standing here  and you haven&apos;t a clue how you got here but you really think you want to somehow get rid of all this dust.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7feeec0ead80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7feeec0ead80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Noon Room
+You&apos;re standing in the middle of a nearly barren room, facing the window.
+
+Sunlight shines a little way into the room - the angle roughly implies that it&apos;s close to noon.
+
+The floor has a thick layer of dust.
+
+There is an extremely dusty-looking pink poof on the floor in front of you.
+
+On the windowsill are a sphere, a vial, and a cork.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
