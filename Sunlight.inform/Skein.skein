@@ -18,8 +18,9 @@ windowsill has no description.
 sphere has no description.
 vial has no description.
 cork has no description.
+window has no description.
 
-Poofparser
+Sunlight
 An Interactive Fiction
 Release 1 / Serial number 180422 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
 
@@ -33,6 +34,10 @@ The floor has a thick layer of dust.
 There is an extremely dusty-looking pink poof on the floor in front of you.
 
 On the windowsill are a sphere, a vial, and a cork.
+
+There is a stick of wood in your hand that you are gripping very tightly indeed, though you do not know why.
+
+You have no idea why you are standing here  and you haven&apos;t a clue how you got here, but you really think you want to somehow get rid of all this dust.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
