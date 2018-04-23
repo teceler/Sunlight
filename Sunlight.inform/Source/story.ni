@@ -25,7 +25,7 @@ The Noon Room is a room. "You're standing in the middle of a nearly barren room,
 
 The sunlight is here. "Sunlight shines a little way into the room - the angle roughly implies that it's close to noon."
 
-The dust is here. "The floor has a thick layer of dust." The indefinite article is "some". The dust is fixed in place.
+The dust is here. "The floor has a thick layer of dust." The indefinite article is "some". The dust is fixed in place. The description of the dust is "Dust: is dust. you really do not want to touch it or inhale it under any circumstances."
 
 A poof is here. "There is an extremely dusty-looking pink poof on the floor in front of you." It is fixed in place. It is a dusty animal. The description is "[if the poof is dusty]the poof is dusty. it rolls around in greeting, picking up more dust as it goes. it seems unhappy about the dust as well.[otherwise]placeholder[end if]".
 
