@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x301e630" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x1c60710" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7</generator>
-  <activeNode nodeId="node-0x301e630"/>
-  <item nodeId="node-0x301e630">
+  <activeNode nodeId="node-0x7ff9cc0ccba0"/>
+  <item nodeId="node-0x1c60710">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
-t-shirt has no description.
 pajama-pants has no description.
-hotel slippers has no description.
 wand has no description.
 sunlight has no description.
 dust has no description.
@@ -46,10 +44,12 @@ You have no idea why you are standing here  and you haven&apos;t a clue how you 
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7feeec0eaf00"/>
+      <child nodeId="node-0x1c60890"/>
+      <child nodeId="node-0x7ff9cc0cc720"/>
+      <child nodeId="node-0x7ff9cc0ccba0"/>
     </children>
   </item>
-  <item nodeId="node-0x7feeec0eaf00">
+  <item nodeId="node-0x1c60890">
     <command xml:space="preserve"> look</command>
     <result xml:space="preserve">Noon Room
 You&apos;re standing in the middle of a nearly barren room, facing the window.
@@ -73,10 +73,10 @@ You have no idea why you are standing here  and you haven&apos;t a clue how you 
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7feeec0ead80"/>
+      <child nodeId="node-0x1c60a10"/>
     </children>
   </item>
-  <item nodeId="node-0x7feeec0ead80">
+  <item nodeId="node-0x1c60a10">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Noon Room
 You&apos;re standing in the middle of a nearly barren room, facing the window.
