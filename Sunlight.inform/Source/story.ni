@@ -43,12 +43,14 @@ The windowsill is scenery in the Noon Room. On the windowsill is a sphere, a via
 
 The window is scenery in the Noon Room.
 
-The player wears a t-shirt, pajama-pants, and hotel slippers. The player carries a wand.
+The player wears a t-shirt, pajama-pants, and hotel slippers. The player carries the wand.
 
-[you are dressed in a t-shirt and pajama pants, which strike you as very good and usual things to be wearing, and in white hotel-type slippers, which are definitely okay, but you find them quite unusual.]
+The description of the t-shirt is "Examining your t-shirt you find that it is pink and says ALWAYS BE UNIQUE on the front."
+
+The description of the hotel slippers is "Your slippers are white. they have a – ?rubber? ?plastic? – you're not sure – sole, which is harder than their parts that go over your toes. You find it most usual to wear flip flops inside or sneakers-with-socks outside, and wearing these gives you a sense that you are in a temporary home (that is the way you like to call hotels and stuff.)"
+
+The description of the player is "You have your hair in a neat and proper ponytail. It goes down to in between your shoulder blades. You like swinging it by shaking your head, it makes a nice feeling and is funny. You are in Inside Clothes.[paragraph break]You are dressed in a t-shirt and pajama pants, which strike you as very good and usual things to be wearing, and in white hotel-type slippers, which are definitely okay, but you find them quite unusual."
 
 [a sphere, transparent kinda like glass and a small vial, with a chain attached to it and a small cork lying nearby with a tiny metal semi-circle stuck into one of the sides.]
 
-A t-shirt is carried by yourself. The description is "examining your t-shirt you find that it is pink and says ALWAYS BE UNIQUE on the front."
-A pair of white hotel-type slippers is carried by yourself. The description is "your slippers are white. they have a - ?rubber? ?plastic? - you're not sure - sole, which is harder than their parts that go over your toes. you find it most usual to wear flip flops inside or sneakers-with-socks outside, and wearing these gives you a sense that you are in a temporary home (that is the way you like to call hotels and stuff.)"
 
